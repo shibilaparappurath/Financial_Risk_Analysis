@@ -20,7 +20,3 @@ Developed as a training project, this repository delivers a comprehensive, data-
 * `requirements.txt`: Python package dependencies required to reproduce the analysis.
 * `.gitignore`: Rules excluding temporary cache and checkpoint files from version control.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/shibilaparappurath/financial-risk-analysis-with-python.git](https://github.com/shibilaparappurath/financial-risk-analysis-with-python.git)
